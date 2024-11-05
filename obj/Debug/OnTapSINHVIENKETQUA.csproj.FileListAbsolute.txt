@@ -1,0 +1,9 @@
+E:\vvvv\OnTapSINHVIENKETQUA\bin\Debug\OnTapSINHVIENKETQUA.exe.config
+E:\vvvv\OnTapSINHVIENKETQUA\bin\Debug\OnTapSINHVIENKETQUA.exe
+E:\vvvv\OnTapSINHVIENKETQUA\bin\Debug\OnTapSINHVIENKETQUA.pdb
+E:\vvvv\OnTapSINHVIENKETQUA\obj\Debug\OnTapSINHVIENKETQUA.Form1.resources
+E:\vvvv\OnTapSINHVIENKETQUA\obj\Debug\OnTapSINHVIENKETQUA.Properties.Resources.resources
+E:\vvvv\OnTapSINHVIENKETQUA\obj\Debug\OnTapSINHVIENKETQUA.csproj.GenerateResource.cache
+E:\vvvv\OnTapSINHVIENKETQUA\obj\Debug\OnTapSINHVIENKETQUA.csproj.CoreCompileInputs.cache
+E:\vvvv\OnTapSINHVIENKETQUA\obj\Debug\OnTapSINHVIENKETQUA.exe
+E:\vvvv\OnTapSINHVIENKETQUA\obj\Debug\OnTapSINHVIENKETQUA.pdb
